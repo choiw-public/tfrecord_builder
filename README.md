@@ -1,2 +1,2 @@
 # tfrecord_builder
-Python scripts for building tfrecord.
+Python scripts for creating tfrecord.
